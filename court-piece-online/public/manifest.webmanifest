@@ -1,0 +1,10 @@
+{
+  "name": "Court Piece",
+  "short_name": "Court Piece",
+  "description": "Play Court Piece (Rang) online with family and friends.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#062625",
+  "theme_color": "#062625",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

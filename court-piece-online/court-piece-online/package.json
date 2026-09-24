@@ -1,0 +1,15 @@
+{
+  "name": "court-piece-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Court Piece (Rang) card game you can play online with family and friends.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/simulate.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
